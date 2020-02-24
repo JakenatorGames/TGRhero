@@ -126,7 +126,7 @@ client.on(`message`, async message =>{
 })
 
 
-client.login('NjgwOTI1NDc2Njk2NjIxMDk1.XlG_jw.akOjLCX9wJf7YyvI4ssrKLWQoWQ')
+client.login('NjgwOTI1NDc2Njk2NjIxMDk1.XlRamg.8FCkc8jUwWx0x6YT7J2Xv_BjD-A')
 
 
 
